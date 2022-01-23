@@ -22,5 +22,7 @@ export default {
             this.message = payload.message
         }
     }
+
+    // = this.$data.message ? => payload
 }
 </script>
